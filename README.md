@@ -1,4 +1,5 @@
 # Javascript
 This is my first Git repository.
 <br>
-Author - Mehbooba Younas
+Author - Mehbooba Younas(javascript)
+ 
